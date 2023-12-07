@@ -33,15 +33,19 @@ header {
     padding: 2em 0;
 }
 
+```
 Adicionar Novos Projetos
 No arquivo index.html, você pode adicionar novos projetos no formato de lista. Por exemplo:
+
+``` html
 <li>
     <h3>Novo Projeto</h3>
     <p>Descrição do novo projeto. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </li>
-
+```
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
 Licença
 Este projeto é licenciado sob a Licença MIT.
+
