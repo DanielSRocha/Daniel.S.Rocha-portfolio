@@ -34,7 +34,8 @@ header {
 }
 
 ```
-Adicionar Novos Projetos
+##Adicionar Novos Projetos
+
 No arquivo index.html, você pode adicionar novos projetos no formato de lista. Por exemplo:
 
 ``` html
@@ -43,7 +44,8 @@ No arquivo index.html, você pode adicionar novos projetos no formato de lista. 
     <p>Descrição do novo projeto. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </li>
 ```
-Contribuição
+##Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
 Licença
